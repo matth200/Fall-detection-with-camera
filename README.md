@@ -25,8 +25,8 @@ You can even detect multiple person on the same image and even in live with stre
 You will need tensorflow, numpy, opencv <br/>
 and also python3, python3-pip<br/>
 
-<code>~$ sudo apt-get install python3 python3-pip</code><br/>
-<code>~$ sudo python3 -m pip install numpy tensorflow opencv-python</code><br/>
+<code> ~$ sudo apt-get install python3 python3-pip</code><br/>
+<code> ~$ sudo python3 -m pip install numpy tensorflow opencv-python</code><br/>
 
 <h3>How to use it</h3>
 
