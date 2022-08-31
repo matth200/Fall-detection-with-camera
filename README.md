@@ -3,9 +3,11 @@
 <h3>Presentation</h3>
 
 With this program, you can detect people who are falling and start an action when it happens<br/>
-To better detection I had a timer when it 
+To better detection I had a timer when it exceeds a certain time, it triggers an action ( by default it just rings an alarm ) <br/>
+we can see the duration of the fall on the screen's top-left corner
 
-![My Images](documentation/
+![My Images](documentation/9.png)
+
 
 <h3>How it works</h3>
 
