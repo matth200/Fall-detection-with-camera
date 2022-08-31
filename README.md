@@ -39,6 +39,8 @@ but you have less needs in computation and the one detection_timer.py you can de
 So go to the directory where are all the files<br/>
 
 <code> ~$ chmod +x detection.py detection_timer.py</code><br/>
+
+Then you launch whatever the file you want<br/>
 <code> ~$ ./detection.py</code><br/>
 ou<br/>
 <code> ~$ ./detection_timer.py</code><br/>
