@@ -22,9 +22,18 @@ You can even detect multiple person on the same image and even in live with stre
 
 <h3>What do you need</h3>
 
+You will need tensorflow, numpy, opencv <br/>
+and also python3, python3-pip<br/>
+
+<code>~$ sudo apt-get install python3 python3-pip</code><br/>
+<code>~$ sudo python3 -m pip install numpy tensorflow opencv-python</code><br/>
+
 <h3>How to use it</h3>
 
-
+You have multiple file, you can launch<br/>
+but mainly you can use detection.py and detection_timer.py<br/>
+The difference between the two is just the number of people you can detect with the one detection.py you can only have one person on the detection<br/>
+but you have less needs in computation and the one detection_timer.py you can detect multiple with no problem buuttt you need a little bit more of computation<br/>
 
 <h3>How it works</h3>
 
