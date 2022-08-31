@@ -35,6 +35,14 @@ but mainly you can use detection.py and detection_timer.py<br/>
 The difference between the two is just the number of people you can detect with the one detection.py you can only have one person on the detection<br/>
 but you have less needs in computation and the one detection_timer.py you can detect multiple with no problem buuttt you need a little bit more of computation<br/>
 
+
+So go to the directory where are all the files<br/>
+
+<code> ~$ chmod +x detection.py detection_timer.py</code><br/>
+<code> ~$ ./detection.py</code><br/>
+ou<br/>
+<code> ~$ ./detection_timer.py</code><br/>
+
 <h3>How it works</h3>
 
 It uses the algorithm Yolo to detect shape of people and once it detects all the shapes, the shapes of people are passing through an other algorithm<br/>
