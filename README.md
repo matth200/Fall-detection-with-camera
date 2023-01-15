@@ -28,6 +28,11 @@ and also python3, python3-pip<br/>
 <code> ~$ sudo apt-get install python3 python3-pip</code><br/>
 <code> ~$ sudo python3 -m pip install numpy tensorflow opencv-python</code><br/>
 
+
+And you also need to launch the installation script <br/>
+<code> ~$ chmod +x install.sh</code><br/>
+<code> ~$ ./install.sh </code><br/>
+
 <h3>How to use it</h3>
 
 You have multiple file, you can launch<br/>
